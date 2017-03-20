@@ -1,8 +1,0 @@
-"version": 1
-"control-service":
-    "hostname": "control-service"
-    "port": 4524
-dataset:
-    backend: packet_flocker_plugin
-    api_key: "xyz123"
-    project_id: "1234567-abcd-1234-5467-abc123def456"
